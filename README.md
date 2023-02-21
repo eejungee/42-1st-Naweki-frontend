@@ -37,7 +37,7 @@ ___
 
 ## 팀원 소개 및 협업 툴
 ---
-![00A30B10-5010-4DDE-8C94-F3D52B5146B6](https://user-images.githubusercontent.com/84219519/219599794-43f1bddb-4465-4faa-bfd8-649600d2bd5b.JPEG)
+![00A30B10-5010-4DDE-8C94-F3D52B5146B6
 
 #### 👥 Front-End Developers
 
