@@ -83,6 +83,7 @@ ___
 ---
 ### 메인(유진님) & Nav(은정님) & Footer(유진님)
 ![main](https://user-images.githubusercontent.com/84219519/219610952-2940b085-bcfe-417b-8c15-52ca0d763ecd.gif)
+<br/>
 [nav]
 * mouse enter 시 드롭다운 메뉴 보여주기
 * 메뉴리스트와 아이콘 클릭 시 해당 페이지로 이동
